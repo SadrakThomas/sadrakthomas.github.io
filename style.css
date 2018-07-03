@@ -1,0 +1,135 @@
+body{
+  background-image: url(../img/guitarshop1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50%;
+}
+
+nav{
+  height: 40px;
+  width: auto;
+  background-color: white;
+}
+
+nav h1{
+  float: left;
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+#logo img{
+  width: 40px;
+  float: left;
+  padding-left: 20px;
+  padding-top: 0;
+
+}
+
+header ul li{
+  list-style-type: none;
+  display: inline;
+}
+
+header ul li a {
+  float: left;
+  font-size: 15px;
+  color: black;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.container {
+  font-family: Arial;
+}
+
+#gib img{
+  width: 40px;
+  float: left;
+  padding-left: 40px;
+}
+
+#gnl img{
+  width: 40px;
+  float: left;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+#prs img{
+  width: 80px;
+  float: left;
+  padding-left: 10px;
+  padding-top: 2px;
+}
+
+#squier img{
+  width: 50px;
+  float: left;
+  padding-left: 10px;
+  padding-top: 10px;
+  opacity: 1px;
+}
+
+#tay img{
+  width: 50px;
+  float: left;
+  padding-left: 30px;
+  padding-top: 5px;
+}
+
+#fender img{
+  width: 60px;
+  float: left;
+  padding-left: 30px;
+  padding-top: 5px;
+}
+
+#ern img{
+  width: 80px;
+  float: left;
+  padding-left: 20px;
+  padding-top: 5px;
+}
+
+#yam img{
+  width: 70px;
+  float: left;
+  padding-left: 20px;
+  padding-top: 13px;
+}
+
+#mar img{
+  width: 60px;
+  float: left;
+  padding-left: 15px;
+  padding-top: 11px;
+}
+
+#content1{
+  padding-left: 15px;
+}
+
+#content2{
+  color: white;
+  text-align: left;
+  padding-top: 100px;
+  font-style: tahoma;
+}
+
+footer {
+height: 40px;
+width: auto;
+background-color: white;
+}
+
+footer p{
+  text-align: center;
+  padding-top: 10px;
+}
+
+.popular{
+  color: White;
+  margin-top: 50px;
+  margin-left: 16px;
+}
